@@ -1,0 +1,22 @@
+{
+  "exam":[
+    {
+      "exam_type" : "과목평가",
+      "exam_date" : "2020-10-21",
+      "exam_time" : "9시 ~ 10시 (1h)",
+      "exam_subject" : "자바스크립트"
+    },
+    {
+      "exam_type" : "월말평가",
+      "exam_date" : "2020-10-26",
+      "exam_time" : "14시 ~ 17시 (3h)",
+      "exam_subject" : "알고리즘"
+    },
+    {
+      "exam_type" : "과목평가",
+      "exam_date" : "2020-11-09",
+      "exam_time" : "9시 ~ 11시 (2h)",
+      "exam_subject" : "알고리즘"
+    }
+  ]
+}
