@@ -21,6 +21,15 @@
 - 카카오톡 메시지 예약 서비스 사이트 배포
 
 
+## 시작하기
+- pip 설치
+```bash
+pip install selenium
+pip install bs4
+pip install pywin32
+```
+- Chrome Driver 설치
+
 ## Contributors
 
 - 구본혁
