@@ -16,8 +16,8 @@ driver.get('https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fwww
 
 # userId = "아이디"
 # userPwd = "비밀번호"
-userId = "bulgen"
-userPwd = "mayplen0522"
+userId = "USERNAME"
+userPwd = "USERPWD"
 id_list = list(userId)
 pw_list = list(userPwd)
 for i in range(len(id_list)):
